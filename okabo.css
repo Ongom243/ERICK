@@ -1,0 +1,51 @@
+.sit{
+display: flex;
+justify-content: space-between;
+background: linear-gradient(sienna,black);
+}
+.rombe{
+padding-top: 50px;
+}
+.adui{color: white;
+}
+.dil{
+padding-left: 350px;
+}
+.solina{
+display: flex;
+justify-content: space-between;
+}
+.diek{
+    padding-right: 390px;
+}
+.pudi{
+padding-right: 70px;
+}
+.jil{
+    padding-left: 230px;
+}
+.adiel{
+padding-left: 130px;
+}
+.amogo{background-color: black;
+display: flex;
+justify-content: space-between;
+color: white;
+}
+.alok{
+    padding-top: 50px;
+}
+.tv{background-color: black;
+display: flex;
+justify-content: space-between;
+color: white;
+}
+.shin{
+background-color: green;
+}
+button{
+    background-color: brown;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+}

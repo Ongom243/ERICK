@@ -1,0 +1,66 @@
+.sand{color: white;
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(sienna, black);
+}
+.poso{color: white;
+    padding-top: 50px;
+}
+.okurut{
+    padding-left: 300px;
+}
+.you{display: flex;
+    justify-content: space-between;
+    background: url(./dofi.jpg);
+    color: white;
+    
+    padding-left: 300px;    
+}
+.z{
+    padding-left: 200px;
+}
+.x{
+    padding-right: 300px;
+}
+.v{display: flex;
+    justify-content: space-between;
+    padding-left: 300px;
+    color: white;
+}
+.st{
+    padding-left: 200px;
+}
+.g{
+    padding-right: 250px;
+}
+.soil{
+    background-color: green;
+}
+.jah{display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.amod{
+    padding-top: 50px;
+}
+.tom{background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.chali{
+    padding-top: 50px;
+}
+.nex{
+    padding-left: 540px;
+}
+.ogedi{
+    background: url(./dofi.jpg);
+    color: white;
+    
+}
+button{
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    background-color: brown;
+}

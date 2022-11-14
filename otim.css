@@ -1,0 +1,86 @@
+.braindiv{background-color: green;
+    
+}
+.muo{
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(sienna, black);  
+    
+    width: 1310px;
+}
+
+.A{
+    
+}
+.B{
+    padding-top: 40PX;
+}
+.c{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 250px;
+    width: 800px;
+    height: 350px;
+    
+}
+.d{ color: white;
+    flex-basis: 48%;
+    border: 2px solid;
+    background-color: sienna;
+}
+.e{color: white;
+    border: 2px solid;
+background-color: sienna;
+flex-basis: 48%;
+
+}
+.zak{
+    padding-left: 250px;
+    width: 700px;
+}
+.gal{
+    padding-left: 60px;
+    width: 700px;
+}
+.leaf{
+    padding-top: 30px;
+}
+.f{color: white;
+   padding-left: 340px;
+   width: 680px;
+   
+}
+.lot{background-color: black;
+    display: flex;
+    justify-content: space-between;
+    border: 0px;
+    width: 1310px;
+
+}
+.more{color: white;
+    padding-top: 40px;
+}
+.and{background-color: black;
+    display: flex;
+    justify-content: space-between;
+    width: 1310px;
+    border: 0px;
+}
+.dio{
+    color: white;
+}
+.check{
+    padding-left: 420px;
+}
+.box{
+    padding-left: 420px;
+}
+.do{
+    background: url(./dofi.jpg);
+}
+button{
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    background-color: brown;
+}
